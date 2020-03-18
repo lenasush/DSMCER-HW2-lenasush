@@ -16,4 +16,5 @@ Note that I must be able to execute all cells in the notebook starting from top 
 Comments in python (using # in a code cell - or just adding a markdown cell) is critical so I can follow your work. You can't really over-comment things. 
 
 ![DIRECT logo](https://github.com/crystalmaths/crystalmaths/blob/master/images/DIRECTlogo-Final.png?raw=true)
-![DIRECT logo](https://github.com/crystalmaths/crystalmaths/blob/master/images/DIRECTlogo-Final.png?raw=true | width=100)
+
+![DIRECT logo](https://github.com/crystalmaths/crystalmaths/blob/master/images/DIRECTlogo-Final.png?raw=true){:height="50%" width="50%"}
