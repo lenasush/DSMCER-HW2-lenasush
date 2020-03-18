@@ -15,13 +15,3 @@ Note that I must be able to execute all cells in the notebook starting from top 
 
 Comments in python (using # in a code cell - or just adding a markdown cell) is critical so I can follow your work. You can't really over-comment things. 
 
-![DIRECT logo](https://github.com/crystalmaths/crystalmaths/blob/master/images/DIRECTlogo-Final.png?raw=true)
-
-![DIRECT logo](https://github.com/crystalmaths/crystalmaths/blob/master/images/DIRECTlogo-Final.png?raw=true = 150x100)
-
-<img src="https://github.com/crystalmaths/crystalmaths/blob/master/images/DIRECTlogo-Final.png?raw=true" width="300">
-
-### Test gif
-
-![Preview](https://github.com/lenasush/DSMCER-HW2-lenasush/blob/master/Crystalmaths-Demo-_1080p_.gif?raw=true)
-
