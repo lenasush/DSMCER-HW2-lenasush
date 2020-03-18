@@ -14,3 +14,5 @@ Note that I must be able to execute all cells in the notebook starting from top 
 ### A note about comments
 
 Comments in python (using # in a code cell - or just adding a markdown cell) is critical so I can follow your work. You can't really over-comment things. 
+
+DIRECTlogo-Final.png
