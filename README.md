@@ -17,4 +17,5 @@ Comments in python (using # in a code cell - or just adding a markdown cell) is 
 
 ![DIRECT logo](https://github.com/crystalmaths/crystalmaths/blob/master/images/DIRECTlogo-Final.png?raw=true)
 
-![DIRECT logo](https://github.com/crystalmaths/crystalmaths/blob/master/images/DIRECTlogo-Final.png?raw=true){:height="50%" width="50%"}
+![DIRECT logo](https://github.com/crystalmaths/crystalmaths/blob/master/images/DIRECTlogo-Final.png?raw=true){:width="100"}
+
